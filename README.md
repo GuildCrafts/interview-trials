@@ -16,7 +16,7 @@ If you are an **interviewee** (i.e. you are using this to practice your intervie
 
 When you do an interview trial, follow these steps:
 
-1. Make a new file in the `trials/` folder with the format `YYYYMMDD-NAME.md`, using the date of the trial and your name (e.g. `20161228-Ada-Lovelace.md`)
+1. Make a new file in the `trials/` folder with the format `YYYYMMDD-NAME.md`, using the date of the trial and your name (e.g. `trials/20161228-Ada-Lovelace.md`)
 1. Copy the contents of the `TRIAL.md` file into your new trial file
 1. Update the information in your trial file
 1. Do the mock interview with an interviewer
