@@ -2,7 +2,7 @@
 
 Catalogue of interview questions and reflections/evaluations from interview trials.
 
-Base repository for the [Mock Interview Trials](https://github.com/GuildCrafts/web-development-js/issues/125) goal.
+Base repository for the [Mock Interview Trials](http://jsdev.learnersguild.org/goals/125) goal.
 
 To make changes (such as adding more questions), please:
 
