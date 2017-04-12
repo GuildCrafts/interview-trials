@@ -1,8 +1,7 @@
-# Interview Trial for `<interviewee>`
+# Mock Interview for `<interviewee>`
 
 ```
 Interviewer: <NAME> (e.g. "A. Lovelace")
-Job Title: <JOB> (e.g. "Junior Web Developer")
 Date: <DATE> (e.g. "12/28/2016")
 ```
 
